@@ -1,5 +1,5 @@
 FROM ubuntu:14.04
-MAINTAINER Masatoshi Anzawa "anzawa@mxp.nes.nec.co.jp"
+MAINTAINER Masatoshi Anzawa  "test@test.com"
 
 # Install Packages
 RUN apt-get update -y
